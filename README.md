@@ -3,8 +3,6 @@ Submitted by: Heeba Eddouh
 
 Wordle is an app that allows you to guess words with multiple tries.
 
-Time spent: 2 hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
@@ -15,21 +13,9 @@ The following **required** functionality is completed:
 - [x] User can select "alien wordle", causing the goal word to change after each guess
 
 
-The following **optional** features are implemented:
-
-- [ ] App displays a reset button on the top left to reset the game (but make no changes to the settings)
-
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 https://imgur.com/a/nhuVU3r
-
-## Notes
-
-Describe any challenges encountered while building the app.
 
 ## License
 
